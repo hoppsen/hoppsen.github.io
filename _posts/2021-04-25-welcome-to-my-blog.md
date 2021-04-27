@@ -2,6 +2,7 @@
 layout: post
 title:  "Welcome to my blog!"
 tag: Personal
+category: Personal
 ---
 
 I wanted to start a blog for a very long time. Now I can tell you that the time has finally come.
