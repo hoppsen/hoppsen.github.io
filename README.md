@@ -1,5 +1,7 @@
 # Personal website of Marcel Hoppe
 
+[![Automatic build](https://github.com/hoppsen/hoppsen.github.io/actions/workflows/pages-deploy.yml/badge.svg)](https://github.com/hoppsen/hoppsen.github.io/actions/workflows/pages-deploy.yml)
+
 ## Theme
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy)
