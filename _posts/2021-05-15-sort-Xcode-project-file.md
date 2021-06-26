@@ -47,7 +47,7 @@ Indeed, that is not really practical. Luckily, the developers over at Apple's We
 
 ## Automate the Sorting
 
-Of course, you could just add a ``Run Script`` with the following call ``perl /<path-to-the-script>/sort-Xcode-project-file.pl <project-name>.xcodeproj`` to your Build Phases. But I'm not a huge fan of overloading the Build Phases with a bunch of scripts. Additionally, I sort it manually anyway, and even if you won't sort it manually and Xcode moves your files around when building might distract you.
+Of course, you could just add a ``Run Script`` with the following call ``perl /<path-to-the-script>/sort-Xcode-project-file.pl <project-name>.xcodeproj`` to your Build Phases. But I am not a huge fan of overloading the Build Phases with a bunch of scripts. Additionally, I sort it manually anyway, and even if you will not sort it manually and Xcode moves your files around when building might distract you.
 
 Instead, I prefer to use a plain pre-commit hook with some basic shell scripting to sort the project file whenever I commit an updated version of it, given that you have placed the Perl script under a folder called ``scripts`` in the root of your git repository. You can just copy the following snippet to your pre-commit hook under ``.git/hooks/pre-commit``, and you are all set. Don't forget to update the project name unless you name all projects ``Hoppsen`` as I do. 😜
 
