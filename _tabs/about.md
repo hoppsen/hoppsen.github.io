@@ -5,7 +5,7 @@ order: 4
 ---
 
 ## Marcel Hoppe
-Lead iOS Developer at PropertyFinder
+*Engineering Manager - Native Apps* at PropertyFinder
 
 ---
 
@@ -14,13 +14,14 @@ Developing iOS apps since December 2009. Currently working at [PropertyFinder, D
 * Working on Open-Source projects at [github.com/hoppsen](https://github.com/hoppsen)
 * Tweeting about Swift, iOS, and Xcode at [twitter.com/hoppsen1](https://twitter.com/hoppsen1)
 * Blogging sporadically at [hoppsen.com](https://hoppsen.com) and [medium.com/@hoppsen](https://medium.com/@hoppsen)
-* Lead iOS Developer at [propertyfinder.ae](https://propertyfinder.ae), leading the development of the iOS app with hundred-thousands of monthly active users
+* *Engineering Manager - Native Apps* at [propertyfinder.ae](https://propertyfinder.ae), leading the native apps team with apps on Android and iOS with hundred-thousands of monthly active users
 
 ## Previous Work 
 
 ---
 
-Senior iOS Developer at [amadeus.com](https://amadeus.com), technically leading the development of an B2B iOS application for airlines
+* Senior iOS Developer at [propertyfinder.ae](https://propertyfinder.ae), leading the development of the iOS app with hundred-thousands of monthly active users
+* Senior iOS Developer at [amadeus.com](https://amadeus.com), technically leading the development of an B2B iOS application for airlines
 
 ## Bio
 
